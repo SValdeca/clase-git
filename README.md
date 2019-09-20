@@ -1,3 +1,4 @@
-# Sebastián Valderrábano Cabrera
+ï»¿# SebastiÃ¡n ValderrÃ¡bano Cabrera
 Clase de Git y Git-hub de Ing. de Software
-:(
+:)
+
